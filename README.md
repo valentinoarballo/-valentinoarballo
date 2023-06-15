@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## technologies that I am learning  
 <table><tr><td valign="top" width="33%">
 
 
