@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Valentino, a full-time software development student</div>  
+### <div align="center">👋 I'm Valentino, a full-time software development student</div>  
   
 
 - I'm currently studying at the technological institute of rio cuarto.  
   
 
-- I’m currently learning Hyperledger and Kubernetes  
+- In the meantime I am learning about kubernetes.
      
 
 <br/>  
