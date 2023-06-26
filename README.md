@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 I'm Valentino</div>  
+### <div align="center">I'm Valentino</div>  
   
 A devoted software engineering student, captivated by the inner workings of computers. Delving into the intricate mechanisms that drive our digital world fills me with joy. My goal is to deepen my understanding of the bridge between hardware and software as I unravel the complexities of technology. The pursuit of knowledge fuels my ambition and propels me forward on this exhilarating path of comprehension.
      
