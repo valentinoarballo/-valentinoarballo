@@ -66,9 +66,6 @@ As a student doing a technicature in software development, I am fascinated by th
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/valentinoarballo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/dyzzy.jpg" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
