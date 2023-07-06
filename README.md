@@ -12,7 +12,7 @@ As a student doing a technicature in software development, I am fascinated by th
 <br/>  
 
 
-## technologies that I am learning  
+## Technologies That I Am Learning  
 <table><tr><td valign="top" width="33%">
 
 
