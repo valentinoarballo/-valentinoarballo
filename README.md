@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Valentino</div>  
+### <div align="center">Hello, I'm Valentino</div>  
   
 
 As a student doing a technicature in software development, I am fascinated by the inner workings of computers. Exploring the intricate mechanisms that power our digital world brings me joy.
