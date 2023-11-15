@@ -15,15 +15,17 @@ As a student doing a technicature in software development, I am fascinated by th
 
 <br/>  
 
-<center
+ 
 
+<div align="center">
   
-You can se my portfoli here
+You can se my portfolio here
 
-
-https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-</center>
-
+<a href="https://instagram.com/dyzzy.jpg" target="_blank">
+<img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white style="margin: 5px;" />
+</a>  
+  
+</div>  
 
 
 <br/>  
