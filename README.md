@@ -15,9 +15,11 @@ As a student doing a technicature in software development, I am fascinated by th
 
 <br/>  
 
-<center>
+<center
 
-  You can se my portfoli here
+  
+You can se my portfoli here
+
 
 https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 </center>
