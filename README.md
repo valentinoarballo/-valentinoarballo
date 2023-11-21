@@ -19,7 +19,7 @@ As a student doing a technicature in software development, I am fascinated by th
 
 <div align="center">
   
-You can se my portfolio here
+You can se my personal portfolio here:
 
 <a href="https://dashing-platypus-c0244a.netlify.app/#" target="_blank">
 <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white style="margin: 5px;" />
