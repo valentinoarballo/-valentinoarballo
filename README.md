@@ -9,7 +9,7 @@
 ### <div align="center">Hello, I'm Valentino</div>  
   
 
-As a student doing a technicature in software development, I am fascinated by the inner workings of computers. Exploring the intricate mechanisms that power our digital world brings me joy.
+As a student doing a technicature in software development, I am fascinated by the inner workings of computers. I love exploring the intricate mechanisms that power our digital world.
 
 
 
