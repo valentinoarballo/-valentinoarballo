@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F701&center=true&random=false&width=1000&height=192&lines=Hello+there+%F0%9F%91%8B;I'm+Valentino+Arballo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F701&center=true&random=false&width=1000&height=192&lines=Hello+there+%F0%9F%91%8B;I'm+Valentino+Arballo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB](https://raw.githubusercontent.com/valentinoarballo/valentinoarballo/main/descarga.svg))](https://git.io/typing-svg)
   
 <center>
 As a student doing a technicature in software development, I am fascinated by the inner workings of computers. I love exploring the intricate mechanisms that power our digital world.  
