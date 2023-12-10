@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG]([https://raw.githubusercontent.com/valentinoarballo/valentinoarballo/main/descarga.svg))](https://git.io/typing-svg)
+![Typing SVG]([https://raw.githubusercontent.com/valentinoarballo/valentinoarballo/main/descarga.svg)
   
 <center>
 As a student doing a technicature in software development, I am fascinated by the inner workings of computers. I love exploring the intricate mechanisms that power our digital world.  
