@@ -10,7 +10,7 @@ As a student doing a technicature in software development, I am fascinated by th
 
 
 
-# ![Snake animation](https://github.com/valentinoarballo/valentinoarballo/blob/main/github_snake.svg)
+
 
 
 <br/>  
