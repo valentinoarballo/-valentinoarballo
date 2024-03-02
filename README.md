@@ -14,6 +14,8 @@ You can se my personal portfolio in here:
 <br/>
 
 <br/>  
+
+
 ![Typing SVG](https://github.com/valentinoarballo/valentinoarballo/blob/main/github-user-contribution.svg)
 
   
