@@ -3,9 +3,6 @@
 
 ![Typing SVG](https://github.com/valentinoarballo/valentinoarballo/blob/main/descarga.svg)
   
-<center>
-As a student doing a technicature in software development, I am fascinated by the inner workings of computers. I love exploring the intricate mechanisms that power our digital world.  
-</center>
 
 
 
