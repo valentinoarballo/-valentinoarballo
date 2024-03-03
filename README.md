@@ -20,5 +20,3 @@ You can se my personal portfolio in here:
 
   
 </div>  
-
-![Screencast-from-2024-03-03-17-41-01](https://github.com/valentinoarballo/valentinoarballo/assets/90293983/95c2a760-6bfd-4266-9cd0-50d2066c2528)
